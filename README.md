@@ -1,0 +1,1 @@
+This application generates tests based on the dataset uploaded by the user. Everything is presented in the form of an application. It is based on the python g4f library. Because this library uses the gpt-3.5 turbo model, the inaccuracies caused by the AI in the application are)
